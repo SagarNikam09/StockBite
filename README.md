@@ -21,7 +21,7 @@ StockBite is a real-time stock market data extraction tool that scrapes the most
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/SagarNikam09/StockBite
    cd StockBite
    ```
 2. **Create and activate a virtual environment:**
